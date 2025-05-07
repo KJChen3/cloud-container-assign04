@@ -1,8 +1,8 @@
 # Container Assignment 04
 
 ## Author
-- Student ID: r13725025
-- Name: KJ Chen
+- Student ID: R13725025
+- Name: 陳冠儒
 - GitHub: https://github.com/KJChen3/cloud-container-assign04
 - DockerHub: https://hub.docker.com/u/kjchen4
 
